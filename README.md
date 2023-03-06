@@ -9,7 +9,6 @@ What up, data nerds! This app is open-sourcing job requirements to aspiring data
 - **👨‍🔧 Data Pipeline Build:** Contribute changes to the airflow pipeline by using [this repo to fork and open a pull request](https://github.com/lukebarousse/Data_Job_Pipeline_Airflow)
 ---
 ### About the app
-- Background on app 📺 [YouTube](https://www.youtube.com/lukebarousse)
 - Data provided via 🤖 [SerpApi](https://serpapi.com/)
 
 
