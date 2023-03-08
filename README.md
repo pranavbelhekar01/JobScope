@@ -8,6 +8,7 @@ What up, data nerds! This app is open-sourcing job requirements to aspiring data
  
 </span>
 <br>
+
 ### About the app
 - Data provided via 🤖 [SerpApi](https://serpapi.com/)
 - Data gets  updated after every 24-hours via **SerpAPI**
