@@ -5,10 +5,14 @@ What up, data nerds! This app is open-sourcing job requirements to aspiring data
 --- 
 <span style = 'color:#0E8388;'>
   <h4 style = 'color:#0E8388;'> You can find App here: </h4> https://jobanalysis.netlify.app/
+ 
 </span>
+<br>
 ### About the app
 - Data provided via 🤖 [SerpApi](https://serpapi.com/)
-
+- Data gets  updated after every 24-hours via **SerpAPI**
+- This website provides actual trends of salary, tools, language used for *DATA ANALYST* job.
+- This is a prototype limited for only single branch (Data Analysis) but further we gonna upgrade to multiple fields.
 
 
 # Realtime-Data-Analyst-Job-Analysis
