@@ -2,9 +2,10 @@
 # 🤓 Data Analyst Job Analysis
 What up, data nerds! This app is open-sourcing job requirements to aspiring data nerds so they can more efficiently focus on the skills they need to know for their job. 
 
----
-
-<h4 style = 'color:#0E8388;'> You can find App here: </h4> https://jobanalysis.netlify.app/
+--- 
+<span style = 'color:#0E8388;'>
+  <h4 style = 'color:#0E8388;'> You can find App here: </h4> https://jobanalysis.netlify.app/
+</span>
 ### About the app
 - Data provided via 🤖 [SerpApi](https://serpapi.com/)
 
