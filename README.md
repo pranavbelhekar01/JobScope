@@ -2,7 +2,7 @@
 # 🤓 Data Analyst Job Analysis
 What up, data nerds! This app is open-sourcing job requirements to aspiring data nerds so they can more efficiently focus on the skills they need to know for their job. 
 
---- 
+___
 <span style = 'color:#0E8388;'>
   <h4 style = 'color:#0E8388;'> You can find App here: https://jobanalysis.netlify.app/ </h4> 
  
@@ -15,6 +15,7 @@ What up, data nerds! This app is open-sourcing job requirements to aspiring data
 - This website provides actual trends of salary, tools, language used for *DATA ANALYST* job.
 - This is a prototype limited for only single branch (Data Analysis) but further we gonna upgrade to multiple fields.
 
+___
 
 # Realtime-Data-Analyst-Job-Analysis
 
