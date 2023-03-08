@@ -4,7 +4,7 @@ What up, data nerds! This app is open-sourcing job requirements to aspiring data
 
 ---
 
-<h4 style = 'color:#0E8388;'> You can find App here: </h4>
+<h4 style = 'color:#0E8388;'> You can find App here: </h4> https://jobanalysis.netlify.app/
 ### About the app
 - Data provided via 🤖 [SerpApi](https://serpapi.com/)
 
