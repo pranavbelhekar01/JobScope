@@ -60,4 +60,3 @@ User can filter the dataset to get insight about other data analyst sector job p
 
 ___
 
-<img src = 'https://i.pinimg.com/originals/40/12/1a/40121a3616ecf2439a5b04d733b6f437.gif' style = 'width:auto;height:auto; display:block; margin-left:auto; margin-right:auto; border-radius:30px;'></img>
