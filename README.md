@@ -1,5 +1,5 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jobdata.streamlit.app/)
-# 🤓 Data Analyst Job Analysis
+# 🤓 JobScope: Data Analyst Job Analysis
 What up, data nerds! This app is open-sourcing job requirements to aspiring data nerds so they can more efficiently focus on the skills they need to know for their job. 
 
 ___
